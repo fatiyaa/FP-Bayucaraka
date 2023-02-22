@@ -1,0 +1,2 @@
+code_package
+-DCATKIN_DEVEL_PREFIX=/home/eciell/FP_UAV/devel -DCMAKE_INSTALL_PREFIX=/home/eciell/FP_UAV/install -G Unix Makefiles

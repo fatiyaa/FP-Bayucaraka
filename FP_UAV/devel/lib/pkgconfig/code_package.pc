@@ -1,0 +1,8 @@
+prefix=/home/eciell/FP_UAV/devel
+
+Name: code_package
+Description: Description of code_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
